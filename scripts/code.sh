@@ -2,7 +2,7 @@
 
 set -e
 
-cd extensions/pearai-submodule
+cd extensions/gocoder-extension
 ./scripts/install-and-build.sh
 cd ../..
 
